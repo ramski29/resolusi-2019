@@ -3,5 +3,7 @@ Rencana Project ke depan:
 - Mempelajari back-end
   * Mempelajari mobile apps
   * Membuat project baru
-  * AngularJS
-- PHP Frameworks
+  * Belajar Laravel
+- Mempelajari ReactJS
+  * Latihan
+- Belajar Phyton
