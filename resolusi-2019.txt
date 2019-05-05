@@ -1,3 +1,5 @@
 resolusi 2019
 - konsisten untuk belajar web programming
 - membuat project sederhana untuk melaanjutkan pengerjaan project sebenarnya
+- kedepannya bercita-cita untuk membuat web sendiri
+- kolaborasi dengan senior programming
