@@ -6,3 +6,4 @@ Rencana Project ke depan:
   * Belajar Laravel
 - Mempelajari ReactJS
   * Latihan
+- Belajar Phyton
